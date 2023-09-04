@@ -10,10 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>+82-02-880-6580</p>
-
-    <p>Building#16, 1 Gwanak-ro, Gwanak-gu</p>
-    <p>Seoul National University</p>
-    <p>Seoul, Korea 08826</p>
+    <p></p>
+    Building#16, 1 Gwanak-ro, Gwanak-gu<br>
+    Seoul National University<br>
+    Seoul, Korea 08826
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
