@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: [Computational Clinical Science Laboratory](https://ccs-lab.github.io/). Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>+82-2-880-6580</p>
+    <p>+82-02-880-6580</p>
     <p>Building#16, 1 Gwanak-ro, Gwanak-gu</p>
     <p>Department of Psychology</p>
     <p>Seoul National University</p>
