@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Computational Clinical Science Laboratory](https://ccs-lab.github.io/). Address. Contacts. Moto. Etc.
+subtitle: Address. Contacts. Moto. Etc.
 
 profile:
   align: right
